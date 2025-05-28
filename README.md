@@ -1,22 +1,6 @@
-![](https://komarev.com/ghpvc/?username=ryosuke0828&color=blue)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryosuke0828&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-<p align="left">
-	  <picture>
-	        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-		<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-		<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ryosuke0828/ryosuke0828/output-3d-contrib/day.svg" />
-	  </picture>
-	  <picture>
-	   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-		<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-		<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ryosuke0828/ryosuke0828/output-3d-contrib/day.svg" />
-	  </picture>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ryosuke0828&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="800" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="800" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ryosuke0828/ryosuke0828/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryosuke0828&theme=juicyfresh&no-bg=true" />
