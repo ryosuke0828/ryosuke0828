@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Researching Network Analysis and Discrete/Continuous Optimmization
+- 💻 Researching Network Analysis and Discrete/Continuous Optimization
 - 🔭 Building things with web & backend technologies
 - 🌱 Always learning something new
 - 💬 Feel free to reach out about anything tech-related
